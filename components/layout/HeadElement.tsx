@@ -2,10 +2,10 @@ import Head from 'next/head';
 import React from 'react';
 
 function HeadElement({
-	pageTitle = 'Brand',
-	description = 'Brand description',
-	noIndex = false,
-	siteLink = 'https://branded-website-template-site.vercel.app/',
+	pageTitle = 'Admin',
+	description = 'Admin description',
+	noIndex = true,
+	siteLink = 'https://admin-dashboard-template-site.vercel.app/',
 }: {
 	pageTitle?: string;
 	description?: string;

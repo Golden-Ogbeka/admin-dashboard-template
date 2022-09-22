@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Live Link
 
-[https://branded-website-template-site.vercel.app/](https://branded-website-template-site.vercel.app/)
+[https://admin-dashboard-template-site.vercel.app/](https://admin-dashboard-template-site.vercel.app/)
