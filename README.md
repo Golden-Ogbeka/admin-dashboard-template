@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a template you can use to startup a branded website project
+This is a template you can use to startup an admin dashboard project
 
 ## Features
 
