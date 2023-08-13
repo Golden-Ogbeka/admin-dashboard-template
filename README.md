@@ -1,17 +1,27 @@
-This is template for building admin dashboards
+# Branded Website Template
 
-## Development Process
+## Description
+
+This is a template you can use to startup a branded website project
+
+## Features
+
+- React JS (CRA)
+- Redux Toolkit
+- Tailwind CSS
+- Typescript
+- Along with Select, toast, form and modal components
+
+## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Live Link
+## Live URL
 
-[https://admin-dashboard-template-site.vercel.app/](https://admin-dashboard-template-site.vercel.app/)
+[Hosted on Vercel](https://admin-dashboard-template-site.vercel.app/)
